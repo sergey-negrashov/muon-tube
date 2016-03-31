@@ -1,5 +1,5 @@
 # MuonTube. Geiger based muon detector for art and science. 
-In this project I aim to design and develop a standalone muon detector using old Soviet STS-5  Geiger tubes.  geometry is shown bellow:
+In this project I aim to design and develop a standalone muon detector using old Soviet STS-5  Geiger tubes.  Geometry is shown bellow:
 ![Geiger](https://raw.githubusercontent.com/sergey-negrashov/muon-tube/master/resource/giger.png "Detector Geometry")
 
 
