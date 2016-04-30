@@ -67,9 +67,6 @@
 <hole x="57.15" y="71.12" drill="2.5"/>
 <hole x="2.54" y="71.12" drill="2.5"/>
 <text x="52.07" y="60.96" size="5.08" layer="16" rot="MR0">Danger</text>
-<text x="51.65" y="51.95" size="1.778" layer="16" rot="MR0">HV 0.2
-sin
-2016</text>
 </plain>
 <libraries>
 <library name="rcl">
@@ -2816,10 +2813,4 @@ design rules under a new name.</description>
 </signals>
 </board>
 </drawing>
-<compatibility>
-<note version="6.3" minversion="6.2.2" severity="warning">
-Since Version 6.2.2 text objects can contain more than one line,
-which will not be processed correctly with this version.
-</note>
-</compatibility>
 </eagle>
