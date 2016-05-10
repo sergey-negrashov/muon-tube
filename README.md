@@ -4,7 +4,7 @@ In this project I aim to design and develop a standalone muon detector using old
 
 
 # Roadmap:
-1. Power supply design. (Almost done)
+1. Power supply design. (Done)
 2. Data acquisition design. (Work in progress)
 3. Mechanical design. (Started)
 4. Integration.
@@ -19,3 +19,5 @@ Geiger tube cage:
 Freshly milled HV PSU board:
 ![Geiger](https://raw.githubusercontent.com/sergey-negrashov/muon-tube/master/resource/mill1.jpg "Freshly milled HV PSU board")
 
+First Muons?
+~[Muon](https://raw.githubusercontent.com/sergey-negrashov/muon-tube/master/resource/firstMuon.png "First Muon")
