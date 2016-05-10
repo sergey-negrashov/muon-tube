@@ -20,4 +20,5 @@ Freshly milled HV PSU board:
 ![Geiger](https://raw.githubusercontent.com/sergey-negrashov/muon-tube/master/resource/mill1.jpg "Freshly milled HV PSU board")
 
 First Muons?
-~[Muon](https://raw.githubusercontent.com/sergey-negrashov/muon-tube/master/resource/firstMuon.png "First Muon")
+
+![Muon](https://raw.githubusercontent.com/sergey-negrashov/muon-tube/master/resource/firstMuon.png "First Muon")
